@@ -4,7 +4,9 @@
 
 The Flipkart Sales Data Analysis Project focuses on analyzing large-scale retail data using SQL to uncover trends in sales performance, pricing strategy, discount impact, and customer demand. The analysis was conducted on a transactional dataset containing product listings, prices, discounts, units sold, ratings, delivery timelines, and listing dates.
 
-The primary objective was to evaluate how pricing, discounting, and product attributes influence key business outcomes such as units sold, revenue, and customer satisfaction. The primary goal of the Flipkart Sales Data Analysis Project is to uncover actionable insights that can drive management decisions and improve overall performance. The aim is to identify areas of strength and areas that need improvement within the Flipkart marketplace ultimately leading to increased revenue and customer satisfaction. SQL was used extensively to clean the data, handle date and encoding issues, aggregate metrics over time, and segment products using data-driven techniques such as percentile-based price categorization.
+The primary objective was to evaluate how pricing, discounting, and product attributes influence key business outcomes such as units sold, revenue, and customer satisfaction. The primary goal of the Flipkart Sales Data Analysis Project is to uncover actionable insights that can drive management decisions and improve overall performance. The aim is to identify areas of strength and areas that need improvement within the Flipkart marketplace ultimately leading to increased revenue and customer satisfaction.
+
+SQL was used extensively to clean the data, handle date and encoding issues, aggregate metrics over time, and segment products using data-driven techniques such as percentile-based price categorization. Power BI was used to represent the analysis visually for better storytelling. 
 
 Key areas of analysis included:
 
